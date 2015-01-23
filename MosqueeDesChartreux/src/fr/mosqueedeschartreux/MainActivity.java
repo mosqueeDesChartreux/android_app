@@ -1,4 +1,6 @@
-package com.example.mosqueedeschartreux;
+package fr.mosqueedeschartreux;
+
+import com.example.mosqueedeschartreux.R;
 
 import android.app.Activity;
 import android.support.v7.app.ActionBarActivity;
